@@ -1,0 +1,12 @@
+streamlit==1.15.2
+selenium==4.20.0
+beautifulsoup4==4.12.2
+langchain==0.0.101
+sentence-transformers==2.2.2
+faiss-cpu==1.7.3
+numpy==1.24.3
+regex==2024.8.1
+matplotlib==3.7.1
+transformers==4.35.1
+wordcloud==1.9.2
+torch==2.0.1
